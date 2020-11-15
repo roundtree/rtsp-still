@@ -1,10 +1,10 @@
 # RTSP capture still image
 
-Docker iamge for capturing a jpeg image from a RTSP stream by calling an http endpoint.
+Docker iamge for capturing a jpeg image from a RTSP stream by calling an HTTP endpoint.
 
 ## Usecase
 
-This container can be used for capturing still images from RTSP enabled camera's not supporting a separate endpoint for capturing a still image. This project was specifically created for the EZVIZ DB1 doorbell camera, but should work for every camera providing a RTSP stream.
+This container can be used for capturing still images from RTSP enabled cameras not supporting a separate endpoint for capturing a still image. This project was specifically created for the EZVIZ DB1 doorbell camera, but should work for every camera providing a RTSP stream.
 
 ## Installing
 The project can be run through Docker.
