@@ -1,6 +1,6 @@
 # RTSP capture still image
 
-Docker iamge for capturing a jpeg image from a RTSP stream by calling an HTTP endpoint.
+Docker image for capturing a jpeg image from a RTSP stream by calling an HTTP endpoint.
 
 ## Usecase
 
